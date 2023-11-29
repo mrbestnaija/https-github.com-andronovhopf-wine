@@ -1,1 +1,1 @@
-# CoverType Tree of Forest Determiner Algorthm
+# CoverType Tree of Forest Determiner Algorithm
